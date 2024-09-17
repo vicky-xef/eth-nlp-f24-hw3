@@ -1,1 +1,1 @@
-# eth-nlp-f24-hw3
+# NLP Autumn 2024 Homework 3
